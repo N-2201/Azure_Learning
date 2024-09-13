@@ -1,0 +1,8 @@
+Azure : VM created 
+
+first-vm - 13.83.95.24 
+
+To connect first-vm : ssh -i first-vm_key.pem azureuser@13.83.95.24
+
+Jenkins installed in vm : To connect : http://13.83.95.24:8080/   - Nagendra/Nagendra@22
+
